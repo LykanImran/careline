@@ -17,7 +17,7 @@ class MemberList extends StatelessWidget {
         child: const Center(
           child: Text(
             'This is the Member List screen.',
-            style: TextStyle(fontSize: 18),
+            style: TextStyle(fontSize: 26),
           ),
         ),
       ),
